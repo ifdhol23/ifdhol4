@@ -37,7 +37,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [R.A] BOT Menu V.2  􀔃􀄆red check mark􏿿
+helpMessage =""" [AnonDol] BOT Menu V.2  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
 [Bot?]     Cek Akun Bot
@@ -83,7 +83,7 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid,"u33d60593ad472ed11e7907fb1daee6ae"]
-admin=["ADMIN_MIDS"]
+admin=["ua9bc35c918832c32bb462d9ec18941c0"]
 wait = {
     'contact':True,
     'autoJoin':True,
